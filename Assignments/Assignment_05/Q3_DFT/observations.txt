@@ -1,0 +1,3 @@
+-->If we swap the amplitudes of images, just the intensity of the colour at different places changes. It does not change the boundries in the image.
+-->By swapping the amplitude, the shapes and borders of the shapes are still in the same way.
+-->Both the images are still distinguishable by the shapes and borders.
